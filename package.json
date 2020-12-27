@@ -1,5 +1,22 @@
 {
+  "publishConfig": {
+    "access": "public"
+  },
+  "contributors": [
+    {
+      "name": "Markus Felten",
+      "email": "markus.felten@gmx.de"
+    },
+    {
+      "name": "Konstantin Karman"
+    }
+  ],
   "template": {
+    "properties": {
+      "repository": {
+        "delete_branch_on_merge": true
+      }
+    },
     "inheritFrom": [
       "arlac77/template-npm",
       "arlac77/template-semantic-release",
