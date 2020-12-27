@@ -3,7 +3,7 @@
     "inheritFrom": [
       "arlac77/template-npm",
       "arlac77/template-semantic-release",
-      "arlac77/template-github"
+      "arlac77/template-github-action"
     ],
     "usedBy": [
       "konsumation/konsum",
