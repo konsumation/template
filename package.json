@@ -27,6 +27,7 @@
       "konsumation/konsum-db",
       "konsumation/konsum-frontend",
       "konsumation/konsum-frontend-svelte",
+      "konsumation/konsum-importer",
       "konsumation/konsum-model",
       "konsumation/timeseries-sqlite2leveldb"
     ]
