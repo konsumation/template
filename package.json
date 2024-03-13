@@ -30,7 +30,6 @@
       "konsumation/konsum-frontend-svelte",
       "konsumation/konsum-importer",
       "konsumation/konsum-model",
-      "konsumation/konsum-postgres",
       "konsumation/timeseries-sqlite2leveldb"
     ]
   }
