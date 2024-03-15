@@ -25,7 +25,7 @@
     "usedBy": [
       "konsumation/konsum",
       "konsumation/konsum-cloudflare-worker",
-      "konsumation/konsum-db",
+      "konsumation/konsum-db-level",
       "konsumation/konsum-frontend",
       "konsumation/konsum-frontend-svelte",
       "konsumation/konsum-importer",
