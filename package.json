@@ -23,12 +23,13 @@
       "arlac77/template-github-action"
     ],
     "usedBy": [
+      "konsumation/db-level",
+      "konsumation/db-test",
+      "konsumation/importer",
       "konsumation/konsum",
       "konsumation/konsum-cloudflare-worker",
-      "konsumation/db-level",
       "konsumation/konsum-frontend",
       "konsumation/konsum-frontend-svelte",
-      "konsumation/importer",
       "konsumation/model",
       "konsumation/timeseries-sqlite2leveldb"
     ]
