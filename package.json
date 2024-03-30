@@ -25,11 +25,11 @@
     "usedBy": [
       "konsumation/konsum",
       "konsumation/konsum-cloudflare-worker",
-      "konsumation/konsum-db-level",
+      "konsumation/db-level",
       "konsumation/konsum-frontend",
       "konsumation/konsum-frontend-svelte",
-      "konsumation/konsum-importer",
-      "konsumation/konsum-model",
+      "konsumation/importer",
+      "konsumation/model",
       "konsumation/timeseries-sqlite2leveldb"
     ]
   }
