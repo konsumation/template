@@ -27,9 +27,8 @@
       "konsumation/db-test",
       "konsumation/importer",
       "konsumation/konsum",
-      "konsumation/konsum-cloudflare-worker",
-      "konsumation/konsum-frontend",
-      "konsumation/konsum-frontend-svelte",
+      "konsumation/cloudflare-worker",
+      "konsumation/frontend-svelte",
       "konsumation/model",
       "konsumation/timeseries-sqlite2leveldb"
     ]
